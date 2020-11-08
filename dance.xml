@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<danceProperties>
+	<dance>
+		<danceID>baristunggal</danceID>
+		<name>Baris Tunggal</name>
+		<type>bebali</type>
+		<gender>male</gender>
+		<description>Tari Baris adalah sebuah jenis tari perang tradisional yang diiringi dengan gamelan. Tari ini menggambarkan perasaan seorang pahlawan muda sebelum ia pergi ke medan perang, mengelu-elukan kejantanan pahlawan Bali dan menunjukkan kemantapan kepemimpinannya.</description>
+	</dance>
+	
+	<dance>
+		<danceID>legongkraton</danceID>
+		<name>Legong Kraton</name>
+		<type>balihbalihan</type>
+		<gender>female</gender>
+		<dancerCount>3</dancerCount>
+		<description>Tari Legong Kraton merupakan sekelompok tarian klasik Bali yang memiliki gerak yang sangat kompleks yang terikat dengan struktur tabuh pengiring. Kata Legong mengandung arti gerak tari yang terikat oleh gamelan yang mengiringinya.</description>
+	</dance>
+	
+	<dance>
+		<danceID>cendrawasih</danceID>
+		<name>Cendrawasih</name>
+		<type>balihbalihan</type>
+		<gender>female</gender>
+		<origin>Buleleng</origin>
+		<creator>I Gede Manik</creator>
+		<dancerMin>2</dancerMin>
+		<description>Tari Cendrawasih adalah sebuah tari Bali yang ditampilkan oleh dua penari perempuan dan mengilustrasikan ritual-ritual perkawinan burung cendrawasih, dimana satu memerankan burung cendrawasih jantan dan satu memerankan betina. Tarian ini mengambil bentuk dari ritual perkawinan.</description>
+	</dance>
+</danceProperties>
